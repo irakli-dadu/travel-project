@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-a {
+    margin-top: 10px;
+    width: 100px;
+    height: 70px;
+}
+.logo-img {
+    width: 100px;
+    height: 70px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-ul {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.welcome-section {
+    margin-top: 17.5px;
+}
+
+.welcome-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.welcome-left-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+}
+
+.left-box-title1 {
+    text-transform: uppercase;
+    color: #DF6951;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.left-box-title2 {
+    text-transform: uppercase;
+    font-size: 80px;
+    color: #181E4B;
+    font-weight: 700;
+    max-width: 545px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.left-box-txt {
+    max-width: 477px;
+    width: 100%;
+    text-align: left;
+    color: #5E6282;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.left-box-buttons {
+    max-width: 450px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.find-btn {
+    width: 170px;
+    font-size: 18px;
+    background: #F1A501;
+    font-weight: 500;
+    color: #fff;
+    padding: 18px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.player-btn {
+    width: 180px;
+    background: #fff;
+    padding: 14px;
+    color: #686D77;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left;
+    border: none;
+    cursor: pointer;
+
+}
+
+.fa-circle-play {
+    margin-left: 68px;
+    font-size: 45px;
+    cursor: pointer;
+    color: #DF6951;
+}
+
+.category-section {
+    margin-top: 50px;
+}

@@ -1,2 +1,2 @@
-# travel-project
-ss
+# starting-some-project
+html/css/js
